@@ -10,8 +10,8 @@ public class Port {
 
     public Port(int containers){
         this.containers=containers;
-        dock1=new Dock(containers/2);
-        dock2=new Dock(containers/2);
+        dock1=new Dock(containers/2, "Dock 1");
+        dock2=new Dock(containers/2, "Dock 2");
     }
 
     public Dock getDock1() {
