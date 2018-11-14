@@ -6,40 +6,19 @@ import java.util.ArrayList;
 
 public class Help {
 
-    public void portWorking(){
+    public void portWorking() {
 
-        Port port=new Port(3000);
-        ReentrantLock locker = new ReentrantLock(); // создаем заглушку
+        Port port = new Port(3000);
+        ReentrantLock locker = new ReentrantLock();
         ReentrantLock locker2 = new ReentrantLock();
-        for (int i = 0; i < 2; i++){
+        for (int i = 0; i < 5; i++) {
             Thread t = new Thread(new Ship(port.getDock1(), locker));
+            t.setName("Ship " + i);
+            t.start();
 
-//            t.start();
-            System.out.println("SECOND THREADS");
             Thread t2 = new Thread(new Ship(port.getDock2(), locker2));
-
-//            t2.start();
-
+            t2.setName("Ship 1" + i);
+            t2.start();
         }
-//            for (int i = 0; i < 2; i++) {
-//                Thread t = new Thread(new Ship(port.getDock1()));
-////            t.setName("Thread 1 Ship № "+i);
-//                System.out.println("FROM MAIN "+t.getName());
-//                t.join();
-////                t.start();
-//
-////            Thread t2=new Thread(new Ship(port.getDock2()));
-////            t2.setName("Thread 2 Ship № "+i);
-////                t2.join();
-////            t2.start();
-////                System.out.println("------------------------------");
-//            }
-
-
-
-//        Thread t=new Thread(new Ship(port.getDock1()));
-//        t.setName("Ship № "+1);
-//        t.start();
-
     }
 }
