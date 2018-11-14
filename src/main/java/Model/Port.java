@@ -1,5 +1,7 @@
 package Model;
 
+import java.util.Objects;
+
 public class Port {
 
     private int containers;
@@ -28,5 +30,20 @@ public class Port {
 
     public void setDock2(Dock dock2) {
         this.dock2 = dock2;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Port port = (Port) o;
+        return containers == port.containers &&
+                Objects.equals(dock1, port.dock1) &&
+                Objects.equals(dock2, port.dock2);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(containers, dock1, dock2);
     }
 }

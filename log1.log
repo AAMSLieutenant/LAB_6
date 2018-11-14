@@ -4,3 +4,129 @@
 2018-11-14 15:37:45 INFO  Ship:24 - Monitor locked
 2018-11-14 15:37:45 INFO  Ship:61 - Thread Ship 245 is started
 2018-11-14 15:37:45 INFO  Ship:24 - Monitor locked
+2018-11-14 15:42:34 INFO  Applicaton:9 - Application started
+2018-11-14 15:42:34 INFO  Controller:14 - Started view
+2018-11-14 15:42:34 INFO  Ship:24 - Monitor locked
+2018-11-14 15:42:34 INFO  Ship:24 - Monitor locked
+2018-11-14 15:42:34 INFO  Ship:24 - Monitor locked
+2018-11-14 15:42:34 INFO  Ship:24 - Monitor locked
+2018-11-14 15:42:34 INFO  Ship:24 - Monitor locked
+2018-11-14 15:42:34 INFO  Ship:24 - Monitor locked
+2018-11-14 15:42:34 INFO  Ship:24 - Monitor locked
+2018-11-14 15:42:34 INFO  Ship:24 - Monitor locked
+2018-11-14 15:42:34 INFO  Ship:30 - Thread Ship 12 is started
+2018-11-14 15:42:34 INFO  Ship:30 - Thread Ship 0 is started
+2018-11-14 15:42:34 INFO  Ship:24 - Monitor locked
+2018-11-14 15:42:34 INFO  Ship:24 - Monitor locked
+2018-11-14 15:42:35 INFO  Ship:64 - Thread Ship 0 is finished
+2018-11-14 15:42:35 INFO  Ship:64 - Thread Ship 12 is finished
+2018-11-14 15:42:35 INFO  Ship:66 - Monitor unlocked
+2018-11-14 15:42:35 INFO  Ship:30 - Thread Ship 4 is started
+2018-11-14 15:42:35 INFO  Ship:66 - Monitor unlocked
+2018-11-14 15:42:35 INFO  Ship:30 - Thread Ship 14 is started
+2018-11-14 15:42:36 INFO  Ship:64 - Thread Ship 14 is finished
+2018-11-14 15:42:36 INFO  Ship:30 - Thread Ship 11 is started
+2018-11-14 15:42:36 INFO  Ship:66 - Monitor unlocked
+2018-11-14 15:42:36 INFO  Ship:64 - Thread Ship 4 is finished
+2018-11-14 15:42:36 INFO  Ship:30 - Thread Ship 1 is started
+2018-11-14 15:42:36 INFO  Ship:66 - Monitor unlocked
+2018-11-14 15:42:37 INFO  Ship:64 - Thread Ship 11 is finished
+2018-11-14 15:42:37 INFO  Ship:66 - Monitor unlocked
+2018-11-14 15:42:37 INFO  Ship:30 - Thread Ship 10 is started
+2018-11-14 15:42:37 INFO  Ship:64 - Thread Ship 1 is finished
+2018-11-14 15:42:37 INFO  Ship:66 - Monitor unlocked
+2018-11-14 15:42:37 INFO  Ship:30 - Thread Ship 2 is started
+2018-11-14 15:42:38 INFO  Ship:64 - Thread Ship 10 is finished
+2018-11-14 15:42:38 INFO  Ship:66 - Monitor unlocked
+2018-11-14 15:42:38 INFO  Ship:30 - Thread Ship 13 is started
+2018-11-14 15:42:38 INFO  Ship:64 - Thread Ship 2 is finished
+2018-11-14 15:42:38 INFO  Ship:66 - Monitor unlocked
+2018-11-14 15:42:38 INFO  Ship:30 - Thread Ship 3 is started
+2018-11-14 15:42:39 INFO  Ship:64 - Thread Ship 13 is finished
+2018-11-14 15:42:39 INFO  Ship:66 - Monitor unlocked
+2018-11-14 15:42:39 INFO  Ship:64 - Thread Ship 3 is finished
+2018-11-14 15:42:39 INFO  Ship:66 - Monitor unlocked
+2018-11-14 15:44:11 INFO  Applicaton:9 - Application started
+2018-11-14 15:44:11 INFO  Controller:14 - Started view
+2018-11-14 15:44:11 INFO  Ship:24 - Monitor locked
+2018-11-14 15:44:11 INFO  Ship:24 - Monitor locked
+2018-11-14 15:44:11 INFO  Ship:24 - Monitor locked
+2018-11-14 15:44:11 INFO  Ship:30 - Thread Ship 0 is started
+2018-11-14 15:44:11 INFO  Ship:24 - Monitor locked
+2018-11-14 15:44:11 INFO  Ship:24 - Monitor locked
+2018-11-14 15:44:11 INFO  Ship:24 - Monitor locked
+2018-11-14 15:44:11 INFO  Ship:24 - Monitor locked
+2018-11-14 15:44:11 INFO  Ship:24 - Monitor locked
+2018-11-14 15:44:11 INFO  Ship:24 - Monitor locked
+2018-11-14 15:44:11 INFO  Ship:24 - Monitor locked
+2018-11-14 15:44:11 INFO  Ship:30 - Thread Ship 14 is started
+2018-11-14 15:44:12 INFO  Ship:64 - Thread Ship 14 is finished
+2018-11-14 15:44:12 INFO  Ship:30 - Thread Ship 10 is started
+2018-11-14 15:44:12 INFO  Ship:64 - Thread Ship 0 is finished
+2018-11-14 15:44:12 INFO  Ship:67 - Monitor unlocked
+2018-11-14 15:44:12 INFO  Ship:30 - Thread Ship 4 is started
+2018-11-14 15:44:12 INFO  Ship:67 - Monitor unlocked
+2018-11-14 15:44:13 INFO  Ship:64 - Thread Ship 10 is finished
+2018-11-14 15:44:13 INFO  Ship:30 - Thread Ship 11 is started
+2018-11-14 15:44:13 INFO  Ship:67 - Monitor unlocked
+2018-11-14 15:44:13 INFO  Ship:64 - Thread Ship 4 is finished
+2018-11-14 15:44:13 INFO  Ship:67 - Monitor unlocked
+2018-11-14 15:44:13 INFO  Ship:30 - Thread Ship 3 is started
+2018-11-14 15:44:14 INFO  Ship:64 - Thread Ship 11 is finished
+2018-11-14 15:44:14 INFO  Ship:30 - Thread Ship 12 is started
+2018-11-14 15:44:14 INFO  Ship:64 - Thread Ship 3 is finished
+2018-11-14 15:44:14 INFO  Ship:67 - Monitor unlocked
+2018-11-14 15:44:14 INFO  Ship:30 - Thread Ship 1 is started
+2018-11-14 15:44:14 INFO  Ship:67 - Monitor unlocked
+2018-11-14 15:44:15 INFO  Ship:64 - Thread Ship 12 is finished
+2018-11-14 15:44:15 INFO  Ship:64 - Thread Ship 1 is finished
+2018-11-14 15:44:15 INFO  Ship:30 - Thread Ship 13 is started
+2018-11-14 15:44:15 INFO  Ship:67 - Monitor unlocked
+2018-11-14 15:44:15 INFO  Ship:30 - Thread Ship 2 is started
+2018-11-14 15:44:15 INFO  Ship:67 - Monitor unlocked
+2018-11-14 15:44:16 INFO  Ship:64 - Thread Ship 13 is finished
+2018-11-14 15:44:16 INFO  Ship:64 - Thread Ship 2 is finished
+2018-11-14 15:44:16 INFO  Ship:67 - Monitor unlocked
+2018-11-14 15:44:16 INFO  Ship:67 - Monitor unlocked
+2018-11-14 16:27:37 INFO  Applicaton:9 - Application started
+2018-11-14 16:27:37 INFO  Controller:14 - Started view
+2018-11-14 16:27:37 INFO  Ship:25 - Monitor locked
+2018-11-14 16:27:37 INFO  Ship:25 - Monitor locked
+2018-11-14 16:27:37 INFO  Ship:25 - Monitor locked
+2018-11-14 16:27:37 INFO  Ship:25 - Monitor locked
+2018-11-14 16:27:37 INFO  Ship:25 - Monitor locked
+2018-11-14 16:27:37 INFO  Ship:25 - Monitor locked
+2018-11-14 16:27:37 INFO  Ship:25 - Monitor locked
+2018-11-14 16:27:37 INFO  Ship:25 - Monitor locked
+2018-11-14 16:27:37 INFO  Ship:25 - Monitor locked
+2018-11-14 16:27:37 INFO  Ship:31 - Thread Ship 0 is started
+2018-11-14 16:27:37 INFO  Ship:31 - Thread Ship 13 is started
+2018-11-14 16:27:37 INFO  Ship:25 - Monitor locked
+2018-11-14 16:27:38 INFO  Ship:65 - Thread Ship 0 is finished
+2018-11-14 16:27:38 INFO  Ship:65 - Thread Ship 13 is finished
+2018-11-14 16:27:38 INFO  Ship:31 - Thread Ship 4 is started
+2018-11-14 16:27:38 INFO  Ship:68 - Monitor unlocked
+2018-11-14 16:27:38 INFO  Ship:31 - Thread Ship 14 is started
+2018-11-14 16:27:38 INFO  Ship:68 - Monitor unlocked
+2018-11-14 16:27:39 INFO  Ship:65 - Thread Ship 4 is finished
+2018-11-14 16:27:39 INFO  Ship:31 - Thread Ship 2 is started
+2018-11-14 16:27:39 INFO  Ship:68 - Monitor unlocked
+2018-11-14 16:27:39 INFO  Ship:65 - Thread Ship 14 is finished
+2018-11-14 16:27:39 INFO  Ship:31 - Thread Ship 10 is started
+2018-11-14 16:27:39 INFO  Ship:68 - Monitor unlocked
+2018-11-14 16:27:40 INFO  Ship:65 - Thread Ship 10 is finished
+2018-11-14 16:27:40 INFO  Ship:65 - Thread Ship 2 is finished
+2018-11-14 16:27:40 INFO  Ship:68 - Monitor unlocked
+2018-11-14 16:27:40 INFO  Ship:31 - Thread Ship 12 is started
+2018-11-14 16:27:40 INFO  Ship:68 - Monitor unlocked
+2018-11-14 16:27:40 INFO  Ship:31 - Thread Ship 1 is started
+2018-11-14 16:27:41 INFO  Ship:65 - Thread Ship 12 is finished
+2018-11-14 16:27:41 INFO  Ship:65 - Thread Ship 1 is finished
+2018-11-14 16:27:41 INFO  Ship:31 - Thread Ship 11 is started
+2018-11-14 16:27:41 INFO  Ship:68 - Monitor unlocked
+2018-11-14 16:27:41 INFO  Ship:31 - Thread Ship 3 is started
+2018-11-14 16:27:41 INFO  Ship:68 - Monitor unlocked
+2018-11-14 16:27:42 INFO  Ship:65 - Thread Ship 11 is finished
+2018-11-14 16:27:42 INFO  Ship:65 - Thread Ship 3 is finished
+2018-11-14 16:27:42 INFO  Ship:68 - Monitor unlocked
+2018-11-14 16:27:42 INFO  Ship:68 - Monitor unlocked

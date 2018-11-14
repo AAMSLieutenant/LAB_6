@@ -4,6 +4,7 @@ import Controller.Controller;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
+import java.util.Objects;
 import java.util.concurrent.locks.ReentrantLock;
 import java.math.*;
 
@@ -63,6 +64,7 @@ public class Ship implements Runnable {
                 System.out.println("Ship " + Thread.currentThread().getName() + " is finished");
                 log.info("Thread "+Thread.currentThread().getName()+" is finished");
                 locker.unlock();
+                System.out.println("-------------------");
                 log.info("Monitor unlocked");
 
             }
@@ -94,5 +96,21 @@ public class Ship implements Runnable {
         this.dock.setContainers(this.dock.getContainers()+containers);
         System.out.println(this.containers+" are aboard");
         System.out.println(this.dock.getContainers()+" are in dock");
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Ship ship = (Ship) o;
+        return isTest == ship.isTest &&
+                containers == ship.containers &&
+                Objects.equals(dock, ship.dock) &&
+                Objects.equals(locker, ship.locker);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(isTest, dock, locker, containers);
     }
 }
