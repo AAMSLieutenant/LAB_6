@@ -22,7 +22,7 @@ public class Ship implements Runnable {
     }
 
     public void run() {
-        log.info("Monitor locked");
+        log.info("Monitor "+this.dock.getName()+" locked by the ship "+Thread.currentThread().getName());
         locker.lock();
         try {
             System.out.println("--------------------");
@@ -65,7 +65,7 @@ public class Ship implements Runnable {
                 log.info("Thread "+Thread.currentThread().getName()+" is finished");
                 locker.unlock();
                 System.out.println("-------------------");
-                log.info("Monitor unlocked");
+                log.info("Monitor "+this.dock.getName()+" unlocked");
 
             }
 

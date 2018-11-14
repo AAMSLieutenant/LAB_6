@@ -130,3 +130,129 @@
 2018-11-14 16:27:42 INFO  Ship:65 - Thread Ship 3 is finished
 2018-11-14 16:27:42 INFO  Ship:68 - Monitor unlocked
 2018-11-14 16:27:42 INFO  Ship:68 - Monitor unlocked
+2018-11-14 16:48:10 INFO  Applicaton:9 - Application started
+2018-11-14 16:48:10 INFO  Controller:14 - Started view
+2018-11-14 16:48:10 INFO  Ship:25 - Monitor locked
+2018-11-14 16:48:10 INFO  Ship:25 - Monitor locked
+2018-11-14 16:48:10 INFO  Ship:25 - Monitor locked
+2018-11-14 16:48:10 INFO  Ship:25 - Monitor locked
+2018-11-14 16:48:10 INFO  Ship:25 - Monitor locked
+2018-11-14 16:48:10 INFO  Ship:25 - Monitor locked
+2018-11-14 16:48:10 INFO  Ship:25 - Monitor locked
+2018-11-14 16:48:10 INFO  Ship:25 - Monitor locked
+2018-11-14 16:48:10 INFO  Ship:25 - Monitor locked
+2018-11-14 16:48:10 INFO  Ship:25 - Monitor locked
+2018-11-14 16:48:10 INFO  Ship:31 - Thread Ship 14 is started
+2018-11-14 16:48:10 INFO  Ship:31 - Thread Ship 4 is started
+2018-11-14 16:48:11 INFO  Ship:65 - Thread Ship 14 is finished
+2018-11-14 16:48:11 INFO  Ship:31 - Thread Ship 10 is started
+2018-11-14 16:48:11 INFO  Ship:68 - Monitor Dock 2 unlocked
+2018-11-14 16:48:11 INFO  Ship:65 - Thread Ship 4 is finished
+2018-11-14 16:48:11 INFO  Ship:31 - Thread Ship 0 is started
+2018-11-14 16:48:11 INFO  Ship:68 - Monitor Dock 1 unlocked
+2018-11-14 16:48:12 INFO  Ship:65 - Thread Ship 10 is finished
+2018-11-14 16:48:12 INFO  Ship:31 - Thread Ship 11 is started
+2018-11-14 16:48:12 INFO  Ship:68 - Monitor Dock 2 unlocked
+2018-11-14 16:48:12 INFO  Ship:65 - Thread Ship 0 is finished
+2018-11-14 16:48:12 INFO  Ship:31 - Thread Ship 1 is started
+2018-11-14 16:48:12 INFO  Ship:68 - Monitor Dock 1 unlocked
+2018-11-14 16:48:13 INFO  Ship:65 - Thread Ship 11 is finished
+2018-11-14 16:48:13 INFO  Ship:68 - Monitor Dock 2 unlocked
+2018-11-14 16:48:13 INFO  Ship:31 - Thread Ship 12 is started
+2018-11-14 16:48:13 INFO  Ship:65 - Thread Ship 1 is finished
+2018-11-14 16:48:13 INFO  Ship:68 - Monitor Dock 1 unlocked
+2018-11-14 16:48:13 INFO  Ship:31 - Thread Ship 2 is started
+2018-11-14 16:48:14 INFO  Ship:65 - Thread Ship 12 is finished
+2018-11-14 16:48:14 INFO  Ship:68 - Monitor Dock 2 unlocked
+2018-11-14 16:48:14 INFO  Ship:31 - Thread Ship 13 is started
+2018-11-14 16:48:14 INFO  Ship:65 - Thread Ship 2 is finished
+2018-11-14 16:48:14 INFO  Ship:68 - Monitor Dock 1 unlocked
+2018-11-14 16:48:14 INFO  Ship:31 - Thread Ship 3 is started
+2018-11-14 16:48:15 INFO  Ship:65 - Thread Ship 13 is finished
+2018-11-14 16:48:15 INFO  Ship:68 - Monitor Dock 2 unlocked
+2018-11-14 16:48:15 INFO  Ship:65 - Thread Ship 3 is finished
+2018-11-14 16:48:15 INFO  Ship:68 - Monitor Dock 1 unlocked
+2018-11-14 16:48:53 INFO  Applicaton:9 - Application started
+2018-11-14 16:48:53 INFO  Controller:14 - Started view
+2018-11-14 16:48:53 INFO  Ship:25 - Monitor Dock 1 unlocked
+2018-11-14 16:48:53 INFO  Ship:25 - Monitor Dock 2 unlocked
+2018-11-14 16:48:53 INFO  Ship:25 - Monitor Dock 1 unlocked
+2018-11-14 16:48:53 INFO  Ship:25 - Monitor Dock 2 unlocked
+2018-11-14 16:48:53 INFO  Ship:25 - Monitor Dock 2 unlocked
+2018-11-14 16:48:53 INFO  Ship:25 - Monitor Dock 2 unlocked
+2018-11-14 16:48:53 INFO  Ship:25 - Monitor Dock 1 unlocked
+2018-11-14 16:48:53 INFO  Ship:25 - Monitor Dock 1 unlocked
+2018-11-14 16:48:53 INFO  Ship:25 - Monitor Dock 2 unlocked
+2018-11-14 16:48:53 INFO  Ship:31 - Thread Ship 13 is started
+2018-11-14 16:48:53 INFO  Ship:31 - Thread Ship 0 is started
+2018-11-14 16:48:53 INFO  Ship:25 - Monitor Dock 1 unlocked
+2018-11-14 16:48:54 INFO  Ship:65 - Thread Ship 13 is finished
+2018-11-14 16:48:54 INFO  Ship:65 - Thread Ship 0 is finished
+2018-11-14 16:48:54 INFO  Ship:31 - Thread Ship 14 is started
+2018-11-14 16:48:54 INFO  Ship:68 - Monitor Dock 2 unlocked
+2018-11-14 16:48:54 INFO  Ship:31 - Thread Ship 4 is started
+2018-11-14 16:48:54 INFO  Ship:68 - Monitor Dock 1 unlocked
+2018-11-14 16:48:55 INFO  Ship:65 - Thread Ship 14 is finished
+2018-11-14 16:48:55 INFO  Ship:31 - Thread Ship 11 is started
+2018-11-14 16:48:55 INFO  Ship:68 - Monitor Dock 2 unlocked
+2018-11-14 16:48:55 INFO  Ship:65 - Thread Ship 4 is finished
+2018-11-14 16:48:55 INFO  Ship:31 - Thread Ship 1 is started
+2018-11-14 16:48:55 INFO  Ship:68 - Monitor Dock 1 unlocked
+2018-11-14 16:48:56 INFO  Ship:65 - Thread Ship 11 is finished
+2018-11-14 16:48:56 INFO  Ship:68 - Monitor Dock 2 unlocked
+2018-11-14 16:48:56 INFO  Ship:31 - Thread Ship 10 is started
+2018-11-14 16:48:56 INFO  Ship:65 - Thread Ship 1 is finished
+2018-11-14 16:48:56 INFO  Ship:68 - Monitor Dock 1 unlocked
+2018-11-14 16:48:56 INFO  Ship:31 - Thread Ship 2 is started
+2018-11-14 16:48:57 INFO  Ship:65 - Thread Ship 10 is finished
+2018-11-14 16:48:57 INFO  Ship:68 - Monitor Dock 2 unlocked
+2018-11-14 16:48:57 INFO  Ship:31 - Thread Ship 12 is started
+2018-11-14 16:48:57 INFO  Ship:65 - Thread Ship 2 is finished
+2018-11-14 16:48:57 INFO  Ship:68 - Monitor Dock 1 unlocked
+2018-11-14 16:48:57 INFO  Ship:31 - Thread Ship 3 is started
+2018-11-14 16:48:58 INFO  Ship:65 - Thread Ship 12 is finished
+2018-11-14 16:48:58 INFO  Ship:68 - Monitor Dock 2 unlocked
+2018-11-14 16:48:58 INFO  Ship:65 - Thread Ship 3 is finished
+2018-11-14 16:48:58 INFO  Ship:68 - Monitor Dock 1 unlocked
+2018-11-14 16:59:46 INFO  Applicaton:9 - Application started
+2018-11-14 16:59:46 INFO  Controller:14 - Started view
+2018-11-14 16:59:46 INFO  Ship:25 - Monitor Dock 2 locked by the ship Ship 10
+2018-11-14 16:59:46 INFO  Ship:25 - Monitor Dock 2 locked by the ship Ship 12
+2018-11-14 16:59:46 INFO  Ship:25 - Monitor Dock 2 locked by the ship Ship 14
+2018-11-14 16:59:46 INFO  Ship:25 - Monitor Dock 1 locked by the ship Ship 4
+2018-11-14 16:59:46 INFO  Ship:25 - Monitor Dock 1 locked by the ship Ship 1
+2018-11-14 16:59:46 INFO  Ship:25 - Monitor Dock 2 locked by the ship Ship 11
+2018-11-14 16:59:46 INFO  Ship:25 - Monitor Dock 1 locked by the ship Ship 0
+2018-11-14 16:59:46 INFO  Ship:31 - Thread Ship 4 is started
+2018-11-14 16:59:46 INFO  Ship:31 - Thread Ship 10 is started
+2018-11-14 16:59:46 INFO  Ship:25 - Monitor Dock 1 locked by the ship Ship 3
+2018-11-14 16:59:46 INFO  Ship:25 - Monitor Dock 2 locked by the ship Ship 13
+2018-11-14 16:59:46 INFO  Ship:25 - Monitor Dock 1 locked by the ship Ship 2
+2018-11-14 16:59:47 INFO  Ship:65 - Thread Ship 4 is finished
+2018-11-14 16:59:47 INFO  Ship:68 - Monitor Dock 1 unlocked
+2018-11-14 16:59:47 INFO  Ship:31 - Thread Ship 1 is started
+2018-11-14 16:59:47 INFO  Ship:65 - Thread Ship 10 is finished
+2018-11-14 16:59:47 INFO  Ship:31 - Thread Ship 12 is started
+2018-11-14 16:59:47 INFO  Ship:68 - Monitor Dock 2 unlocked
+2018-11-14 16:59:48 INFO  Ship:65 - Thread Ship 1 is finished
+2018-11-14 16:59:48 INFO  Ship:31 - Thread Ship 0 is started
+2018-11-14 16:59:48 INFO  Ship:68 - Monitor Dock 1 unlocked
+2018-11-14 16:59:48 INFO  Ship:65 - Thread Ship 12 is finished
+2018-11-14 16:59:48 INFO  Ship:31 - Thread Ship 14 is started
+2018-11-14 16:59:48 INFO  Ship:68 - Monitor Dock 2 unlocked
+2018-11-14 16:59:49 INFO  Ship:65 - Thread Ship 0 is finished
+2018-11-14 16:59:49 INFO  Ship:68 - Monitor Dock 1 unlocked
+2018-11-14 16:59:49 INFO  Ship:31 - Thread Ship 3 is started
+2018-11-14 16:59:49 INFO  Ship:65 - Thread Ship 14 is finished
+2018-11-14 16:59:49 INFO  Ship:68 - Monitor Dock 2 unlocked
+2018-11-14 16:59:49 INFO  Ship:31 - Thread Ship 11 is started
+2018-11-14 16:59:50 INFO  Ship:65 - Thread Ship 3 is finished
+2018-11-14 16:59:50 INFO  Ship:68 - Monitor Dock 1 unlocked
+2018-11-14 16:59:50 INFO  Ship:31 - Thread Ship 2 is started
+2018-11-14 16:59:50 INFO  Ship:65 - Thread Ship 11 is finished
+2018-11-14 16:59:50 INFO  Ship:68 - Monitor Dock 2 unlocked
+2018-11-14 16:59:50 INFO  Ship:31 - Thread Ship 13 is started
+2018-11-14 16:59:51 INFO  Ship:65 - Thread Ship 2 is finished
+2018-11-14 16:59:51 INFO  Ship:68 - Monitor Dock 1 unlocked
+2018-11-14 16:59:51 INFO  Ship:65 - Thread Ship 13 is finished
+2018-11-14 16:59:51 INFO  Ship:68 - Monitor Dock 2 unlocked
